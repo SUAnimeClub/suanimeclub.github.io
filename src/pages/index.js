@@ -3,11 +3,12 @@ import '../styles/global.css';
 
 const IndexPage = () => {
   return (
-    <div className="bg-white w-screen h-screen"> 
-      <h1 className="text-3xl font-bold text-orange-600">
-        Hello there you fucking weeb. Watchu doin all the way back here?
-      </h1>  
-    </div>
+      <div>
+        <button className="btn btn-primary">daisyUI Button</button>
+        <h1>
+          Hello there you fucking weeb. Watchu doin all the way back here?
+        </h1>  
+      </div>
    )
 } 
 
