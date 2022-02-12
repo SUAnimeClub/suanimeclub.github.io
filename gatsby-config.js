@@ -1,6 +1,6 @@
 module.exports = {
   siteMetadata: {
-      title: `anime-club-website`,
+      title: `Sun-U Anime Club Official Website`,
     siteUrl: `https://www.suanimeclub.github.io`
   },
   plugins: ['gatsby-plugin-postcss', "gatsby-plugin-image", "gatsby-plugin-sharp", "gatsby-transformer-sharp", {
