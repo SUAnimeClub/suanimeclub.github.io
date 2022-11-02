@@ -16,4 +16,4 @@
 - [ ] Set up Google Sheets API (Images & Text Posts)
 - [ ] Launch Website Officially
 
-## Prototype Deadline : ```27th February 2022```
+## Project on Hiatus
